@@ -1,0 +1,8 @@
+test runner:
+npm init
+sudo npm install -g jest
+
+specfic probelm we will create a folder
+in folder two file index.js and test.js
+
+jest folder/test.js --watch
